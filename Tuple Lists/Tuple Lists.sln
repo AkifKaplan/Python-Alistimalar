@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Tuple Lists", "Tuple Lists\Tuple Lists.pyproj", "{004EA3AF-C5D0-4037-AB10-5A062058AF0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{004EA3AF-C5D0-4037-AB10-5A062058AF0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{004EA3AF-C5D0-4037-AB10-5A062058AF0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D55C944E-908C-475E-BBE6-4EC397596E12}
+	EndGlobalSection
+EndGlobal
